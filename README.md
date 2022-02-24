@@ -1,2 +1,2 @@
 # R_collaboration
-Provide general R guidelines and support via the [wiki](https://github.com/iiasa/R_collaboration/wiki) and [issue tracker](https://github.com/iiasa/R_collaboration/issues) associated with this repository.
+Fostering R collaboration at IIASA via a Wiki and Discussions forums. The links to these services can be found at the top of this page.
